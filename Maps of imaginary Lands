@@ -1,0 +1,30 @@
+Maps of imaginary Lands
+	@malcolmt
+
+all maps are mashups
+
+OpenLayers
+	Client side, javascript framework
+	combines data from multiple data feeds
+	provides neat looking UI around it
+	day to learn, lifetime to customise
+
+Mapnik
+	server side way to combine data sources
+	different details and different zoom levels
+	input from raster or vector formats
+
+tilecahce
+	or mod_tile or tilestache or other
+	avoud recomputing common data
+
+GeoDjango
+	use views to provide subset of data
+	easy default output in formats understood by openlayers
+
+Imaginary Maps
+	need to replace base image
+	GeoAdmin very customisable; easy to do
+	Mapnik WMS server running locally
+
+github.com/malcolmt/imaginary-maps-in-django

@@ -1,0 +1,1 @@
+Files and exercises during the sprint sessions at UPD during PYCON

@@ -1,0 +1,49 @@
+Functional Programming by @malcolmt
+
+the only things to remember
+map()
+filter()
+functols module
+itertools module
+itertools module
+lust comprehensions
+generators
+
+
+funcitonal programming
+	transform data structures, dont manipulate state
+	concentrate on function return values, not side effects
+
+python functions
+	functions are first class objects
+	you can pass them around as arguments to other functions
+	you can construct them dynamically
+
+Functions are Objects
+
+useful language features
+	lambda expressions
+		-lambda one,two : one + two
+	the functools module
+		partial application: partial()
+	the itertools
+
+	type of transform
+		apply a function to every element
+			map()
+			list comprehenssions: [x for x in]
+			generators: (x for x in..)
+
+		select elements and filtering
+			filter()
+			itertools.dropwhile()
+			itertools.takewhile()
+
+	combining elemenys(folding)
+		functools.reduce()
+		manual loops
+			sometimes a good idea
+
+	unfolding
+		manudla loops
+		recursion
