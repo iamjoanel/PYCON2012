@@ -1,5 +1,3 @@
 import pyconEX1
 
-pyconEX1.start
-
-# django, flask
+pyconEX1.start()
